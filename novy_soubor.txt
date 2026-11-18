@@ -1,0 +1,2 @@
+Toto je novy soubor vytvoreny ve vetvi feat/new_file.
+Ucim se pracovat s vetvemi a pull requesty.
