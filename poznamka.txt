@@ -1,0 +1,2 @@
+Toto je moje prvni poznamka v Gitu.
+Ucim se pracovat s GitHubem.
